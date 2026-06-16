@@ -234,10 +234,4 @@ Not just a desktop tool. The entire interface adapts to mobile screens, so you c
 
 ---
 
-## License
-
-MIT License - feel free to use this for learning or building your own projects.
-
----
-
 Built by [Sameer Shaik](https://github.com/SameerShaik786)
